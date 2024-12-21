@@ -38,10 +38,10 @@ A **Data Toys** solicitou um dashboard abrangente que auxiliasse nas decisões e
 ## 3. Dashboard da Adventure Works
 Este dashboard foi desenvolvido para a **Adventure Works**, uma indústria de bicicletas em crescimento, com o objetivo de adotar uma abordagem **data-driven** para impulsionar sua competitividade no mercado. 
 
-A **Adventure Works** é uma base de dados fictícia da Microsoft amplamente utilizada em treinamentos e projetos de demonstração para simular cenários reais de análise de dados. A base conta com 68 tabelas, e mais informações podem ser encontradas no [site oficial da Microsoft](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms). 
+A **Adventure Works** é uma base de dados fictícia da Microsoft amplamente utilizada em treinamentos e projetos de demonstração para simular cenários reais de análise de dados. A base podem ser encontradas no [site oficial da Microsoft](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms). 
 
 <p align="center">
-  <img alt="Dashboard Adventure Works" src="https://github.com/user-attachments/assets/adventure-works-dashboard.png" width="80%">
+  <img alt="Dashboard Adventure Works" src="https://github.com/user-attachments/assets/fe18c37d-307f-4769-8029-ca7bc89b2c8b" width="80%">
 </p>
 
 O objetivo deste dashboard é responder as seguintes perguntas do negócio:
