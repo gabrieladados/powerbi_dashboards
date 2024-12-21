@@ -5,8 +5,10 @@ Este repositório contém uma coleção de dashboards criados no Power BI para e
 ## 1. Dashboard da Balança Comercial Brasileira
 Em progresso...
 
+<br>  
+
 ## 2. Dashboard da Data Toys
-Esse dashboard foi desenvolvido para analisar a performance comercial, os produtos e o fluxo de caixa de uma loja de brinquedos infantis. Este projeto foi realizado utilizando o Power BI com dados fornecidos pelo curso **Comunidade Data Driven**.
+Esse dashboard foi desenvolvido para analisar a performance comercial, os produtos e o fluxo de caixa de uma loja de brinquedos infantis. Os dados foram fornecidos na capacitação em **Power BI** da **Comunidade Data Driven**.
 <p align="center">
   <img alt="Dashboard Data Toys" src="https://github.com/user-attachments/assets/44e686a5-e00c-445a-bd5a-16320f5e6c42" width="80%">
 </p>
@@ -34,6 +36,7 @@ A **Data Toys** solicitou um dashboard abrangente que auxiliasse nas decisões e
 - Principais gastos.
 - Saldo geral.
 
+<br>  
 
 ## 3. Dashboard da Adventure Works
 Este dashboard foi desenvolvido para a **Adventure Works**, uma indústria de bicicletas em crescimento, com o objetivo de adotar uma abordagem **data-driven** para impulsionar sua competitividade no mercado. 
@@ -53,23 +56,34 @@ O objetivo deste dashboard é responder as seguintes perguntas do negócio:
 - Qual o número de pedidos, quantidade comprada, valor total negociado por mês e ano?
 - Qual produto tem a maior quantidade de unidades compradas para o motivo de venda “Promotion”?
 
+<br>  
 
 ## 4. Dashboard de Vendas de um Ecommerce
-Este dashboard foi criado para analisar os resultados comerciais de um negócio online ao longo do ano. O projeto foi desenvolvido utilizando o **Power BI** com dados fornecidos pelo curso **Comunidade Data Driven**.
+Este dashboard foi criado para analisar os resultados comerciais de um negócio online ao longo do ano. Os dados foram fornecidos na capacitação em **Power BI** da **Comunidade Data Driven**.
 <p align="center">
   <img alt="Dashboard E-commerce" src="https://github.com/user-attachments/assets/19648637-f742-4034-b221-acc75646f3eb" width="80%">
 </p>
 
 O objetivo deste dashboard é oferecer insights detalhados sobre o desempenho de vendas do e-commerce, auxiliando na identificação de tendências e oportunidades de crescimento.
 
-- **Faturamento total**.
-- **Quantidade de pedidos**.
-- **Quantidade de itens vendidos**.
-- **Faturamento ao longo do tempo**.
-- **Ranking de vendas por categoria**.
-- **Faturamento por método de pagamento**.
-- **Representatividade por canal de venda**.
-- Matriz detalhando o faturamento por **categoria** e **produto**.
+- Faturamento total.
+- Quantidade de pedidos.
+- Quantidade de itens vendidos.
+- Faturamento ao longo do tempo.
+- Ranking de vendas por categoria.
+- Faturamento por método de pagamento.
+- Representatividade por canal de venda.
+- Matriz detalhando o faturamento por categoria e produto.
+
+<br>
+
+## Constribuições
+
+Muito obrigada por acompanhar meu projeto até aqui! 🎉
+
+Contribuições são **muito bem-vindas**. Se você tem sugestões ou melhorias, fique à vontade para abrir uma **issue** ou enviar um **pull request**.
+
+Gostou do projeto? Não esqueça de dar uma ⭐️! 
 
 
 
