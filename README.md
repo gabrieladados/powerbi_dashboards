@@ -17,6 +17,12 @@ Em progresso...
 </p>
 
 
+## 4. Dashboard da Adventure Works
+
+<p align="center">
+  <img alt="Dashboard E-commerce" src="https://github.com/user-attachments/assets/fe18c37d-307f-4769-8029-ca7bc89b2c8b" width="80%">
+</p>
+
 
 
 
