@@ -38,6 +38,7 @@ A **Data Toys** solicitou um dashboard abrangente que auxiliasse nas decisões e
 - Principais gastos.
 - Saldo geral.
 
+https://app.powerbi.com/view?r=eyJrIjoiMDg1ZjJmYjgtNDZkYy00ODdhLTgyM2YtYjA5ZTYwZTJkMjc1IiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9&pageName=651e4e0b10563e347176
 <br>  
 
 ## 3. Dashboard da Adventure Works
@@ -58,6 +59,8 @@ O objetivo deste dashboard é responder as seguintes perguntas do negócio:
 - Qual o número de pedidos, quantidade comprada, valor total negociado por mês e ano?
 - Qual produto tem a maior quantidade de unidades compradas para o motivo de venda “Promotion”?
 
+https://app.powerbi.com/view?r=eyJrIjoiYjZjODY2MzctNzU0NC00YWU2LThiOGUtODk1NTNkYTEyMWMzIiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9&pageName=22fd91d08b40339de1ee
+
 <br>  
 
 ## 4. Dashboard de Vendas de um Ecommerce
@@ -77,7 +80,12 @@ O objetivo deste dashboard é oferecer insights detalhados sobre o desempenho de
 - Representatividade por canal de venda.
 - Matriz detalhando o faturamento por categoria e produto.
 
+
+https://app.powerbi.com/view?r=eyJrIjoiNDkyZWMxMjMtYzZkZS00M2M0LWIwNTctNGZmYzU4MTlhMThmIiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9&pageName=11a9be166d9843534d45
+
 <br>
+
+
 
 ## Constribuições
 
