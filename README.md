@@ -38,7 +38,8 @@ A **Data Toys** solicitou um dashboard abrangente que auxiliasse nas decisões e
 - Principais gastos.
 - Saldo geral.
 
-https://app.powerbi.com/view?r=eyJrIjoiMDg1ZjJmYjgtNDZkYy00ODdhLTgyM2YtYjA5ZTYwZTJkMjc1IiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9&pageName=651e4e0b10563e347176
+https://app.powerbi.com/view?r=eyJrIjoiOTVkNDM5OTItOGMzNy00OGNiLWEyMDYtNTI1YzRmY2I2Y2NlIiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9
+
 <br>  
 
 ## 3. Dashboard da Adventure Works
