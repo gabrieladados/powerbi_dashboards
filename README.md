@@ -4,87 +4,36 @@ Este repositório contém uma coleção de dashboards criados no Power BI para e
 
 💡 _**Curiosidade:** Você sabia que o termo "dashboard" que usamos no Power BI é, na verdade, considerado um tipo específico de relatório? Isso porque, tecnicamente, o Power BI chama de "painel" uma única página com visuais fixados, enquanto os relatórios podem conter várias páginas e explorar dados de forma mais interativa._
 
-## 1. Dashboard da Balança Comercial Brasileira
-Em progresso...
+## 1. Dashboard Financeiro 💵
 
-<br>  
+Este dashboard foi desenvolvido para controlar o fluxo de caixa e oferecer uma visão completa das entradas e saídas financeiras ao longo do tempo. Ele permite identificar tendências, calcular a margem de lucro e até simular cenários financeiros para apoiar na tomada de decisão.
+
+<p align="center">
+  <img alt="Dashboard Financeiro" src="https://github.com/user-attachments/assets/ed3191db-1de7-4841-98b1-32ece745a5fb" width="80%">
+</p>
+
+
+
+### 🔍 **Principais Indicadores:**
+- **Total de Entradas:** Valor acumulado recebido ao longo do período selecionado.
+- **Total de Saídas:** Valor total das despesas no mesmo intervalo de tempo.
+- **Saldo Final:** Diferença entre entradas e saídas, representando o lucro ou prejuízo.
+- **Margem de Lucro (%):** Indicador que reflete a rentabilidade das operações financeiras.
+
+### 📊 **Visualizações e Funcionalidades:**
+- **Entradas e Saídas ao longo do tempo:** Um gráfico de área comparando os valores mensais de entradas e saídas.
+- **Evolução do saldo:** Gráfico de barras que destaca meses lucrativos versus meses com prejuízo.
+- **Saídas por tipo de despesa:** Uma barra horizontal que detalha as principais categorias de gastos.
+- **Simulador What-If:** Ferramenta interativa que permite ajustar receitas e despesas projetadas, gerando novos cenários financeiros.
+  
+### 🌐 **Acesse o Dashboard:**
+- Explore o dashboard interativo no Power BI clicando nesse link:  [🔗 Acessar Dashboard Financeiro](https://app.powerbi.com/view?r=eyJrIjoiZjdmMDQwYWItM2MwMS00MDc4LTliZTctZTFhMGJhNGFiMzk0IiwidCI6ImQ5Y2RhZTQwLTkyYmMtNDdjMC05NTAyLTkxZGIzOWEyNjMyYiJ9&pageName=b9ea140ce0cbc18639a0)
+
+
+
 
 ## 2. Dashboard da Data Toys
-Esse dashboard foi desenvolvido para analisar a performance comercial, os produtos e o fluxo de caixa de uma loja de brinquedos infantis. Os dados foram fornecidos na capacitação em **Power BI** da **Comunidade Data Driven**.
-<p align="center">
-  <img alt="Dashboard Data Toys" src="https://github.com/user-attachments/assets/44e686a5-e00c-445a-bd5a-16320f5e6c42" width="80%">
-</p>
 
-A **Data Toys** solicitou um dashboard abrangente que auxiliasse nas decisões estratégicas, contemplando as seguintes análises:
-
-#### **Análise Comercial**
-- Total vendidos por período.
-- Receita total.
-- Quantidade de itens vendidos e de pedidos.
-- Itens por pedido.
-- Ranking de melhores e piores produtos.
-- Receita por loja, produto, UF e categoria.
-- Receita vs meta por período e produto.
-
-#### **Análise de Produtos**
-- Produtos mais vendidos.
-- Categorias mais vendidas.
-- Receita por origem do produto.
-- Maiores fornecedores/marcas por receita.
-
-#### **Análise de Fluxo de Caixa**
-- Saldo por data.
-- Gastos por categoria de despesas e por departamento.
-- Principais gastos.
-- Saldo geral.
-
-https://app.powerbi.com/view?r=eyJrIjoiOTVkNDM5OTItOGMzNy00OGNiLWEyMDYtNTI1YzRmY2I2Y2NlIiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9
-
-<br>  
-
-## 3. Dashboard da Adventure Works
-Este dashboard foi desenvolvido para a **Adventure Works**, uma indústria de bicicletas em crescimento, com o objetivo de adotar uma abordagem **data-driven** para impulsionar sua competitividade no mercado. 
-
-A **Adventure Works** é uma base de dados fictícia da Microsoft amplamente utilizada em treinamentos e projetos de demonstração para simular cenários reais de análise de dados. A base podem ser encontradas no [site oficial da Microsoft](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms). 
-
-<p align="center">
-  <img alt="Dashboard Adventure Works" src="https://github.com/user-attachments/assets/fe18c37d-307f-4769-8029-ca7bc89b2c8b" width="80%">
-</p>
-
-O objetivo deste dashboard é responder as seguintes perguntas do negócio:
-
-- Qual o número de pedidos, quantidade comprada, valor total negociado por produto, tipo de cartão, motivo de venda, data de venda, cliente, status, cidade, estado e país?
-- Quais os produtos com maior ticket médio por mês, ano, cidade, estado e país?
-- Quais os 10 melhores clientes por valor total negociado filtrado por produto, tipo de cartão, motivo de venda, data de venda, status, cidade, estado e país?
-- Quais as 5 melhores cidades em valor total negociado por produto, tipo de cartão, motivo de venda, data de venda, cliente, status, cidade, estado e país?
-- Qual o número de pedidos, quantidade comprada, valor total negociado por mês e ano?
-- Qual produto tem a maior quantidade de unidades compradas para o motivo de venda “Promotion”?
-
-https://app.powerbi.com/view?r=eyJrIjoiYjZjODY2MzctNzU0NC00YWU2LThiOGUtODk1NTNkYTEyMWMzIiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9&pageName=22fd91d08b40339de1ee
-
-<br>  
-
-## 4. Dashboard de Vendas de um Ecommerce
-Este dashboard foi criado para analisar os resultados comerciais de um negócio online ao longo do ano. Os dados foram fornecidos na capacitação em **Power BI** da **Comunidade Data Driven**.
-<p align="center">
-  <img alt="Dashboard E-commerce" src="https://github.com/user-attachments/assets/19648637-f742-4034-b221-acc75646f3eb" width="80%">
-</p>
-
-O objetivo deste dashboard é oferecer insights detalhados sobre o desempenho de vendas do e-commerce, auxiliando na identificação de tendências e oportunidades de crescimento.
-
-- Faturamento total.
-- Quantidade de pedidos.
-- Quantidade de itens vendidos.
-- Faturamento ao longo do tempo.
-- Ranking de vendas por categoria.
-- Faturamento por método de pagamento.
-- Representatividade por canal de venda.
-- Matriz detalhando o faturamento por categoria e produto.
-
-
-https://app.powerbi.com/view?r=eyJrIjoiNDkyZWMxMjMtYzZkZS00M2M0LWIwNTctNGZmYzU4MTlhMThmIiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9&pageName=11a9be166d9843534d45
-
-<br>
 
 
 
