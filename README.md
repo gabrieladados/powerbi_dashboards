@@ -59,12 +59,36 @@ Este dashboard foi desenvolvido para controlar o fluxo de caixa e oferecer uma v
 ### 🌐 **Acesse o Dashboard:**
 - Explore o dashboard interativo no Power BI clicando nesse link:  [🔗 Acessar Dashboard Financeiro](https://app.powerbi.com/view?r=eyJrIjoiZjdmMDQwYWItM2MwMS00MDc4LTliZTctZTFhMGJhNGFiMzk0IiwidCI6ImQ5Y2RhZTQwLTkyYmMtNDdjMC05NTAyLTkxZGIzOWEyNjMyYiJ9&pageName=b9ea140ce0cbc18639a0)
 
+<br> 
+
+## 3. Dashboard de Gestão de Clientes 🤝
+
+Este dashboard foi desenvolvido para analisar a base de clientes, ajudando na criação de estratégias de retenção, fidelização e expansão. Ele oferece insights detalhados sobre o comportamento dos clientes e o desempenho financeiro por grupos e regiões.
+
+<p align="center">
+  <img alt="Dashboard de Gestão de Clientes" src=" " width="80%">
+</p>
+
+### 🔍 **Principais Indicadores:**
+- **Número de Clientes:** Total de clientes ativos no período selecionado.
+- **Receita:** Valor gerado pelas vendas para os clientes no período.
+- **Ticket Médio:** Média do valor gasto por cliente.
+- **Pedidos 2022 vs. 2023:** Comparação das quantidades de pedidos entre os dois anos.
+
+### 📊 **Visualizações e Funcionalidades:**
+- **Matriz de Ação:** Gráfico que segmenta os clientes em quadrantes (Fidelizar, Valorizar, Desenvolver, Encantar), com base em receita e frequência.
+- **Faturamento por Grupo de Cliente:** Gráfico de barras que destaca o desempenho financeiro dos diferentes grupos de clientes.
+- **Faturamento por Região:** Mapa interativo que apresenta a distribuição do faturamento por localização geográfica.
+- **Evolução de Pedidos:** Gráfico de linhas que mostra o desempenho dos pedidos em diferentes períodos.
+- **Filtros Dinâmicos:** É possível filtrar todo o dashboard pela data e por vendedor.
 
 
+### 🌐 **Acesse o Dashboard:**
+Explore o dashboard interativo no Power BI clicando nesse link: [🔗 Acessar Dashboard de Gestão de Clientes](https://app.powerbi.com/view?r=eyJrIjoiODk3MjFiNGMtMDA2Yi00Y2QxLWFjMGMtZjU3ZDZlMzQxMGQ0IiwidCI6ImQ5Y2RhZTQwLTkyYmMtNDdjMC05NTAyLTkxZGIzOWEyNjMyYiJ9
+).
 
 
-
-
+---
 
 
 ## Constribuições
