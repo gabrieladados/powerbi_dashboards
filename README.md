@@ -11,7 +11,7 @@ Este repositório contém uma coleção de dashboards criados no Power BI para e
 Este dashboard foi desenvolvido para fornecer insights estratégicos sobre a performance de um e-commerce, permitindo análises detalhadas de vendas, categorias de produtos, ticket médio e muito mais. Ele ajuda a identificar oportunidades de crescimento e tomar decisões embasadas.
 
 <p align="center">
-  <img alt="Dashboard de E-commerce" src="https://github.com/user-attachments/assets/ddc8d1d4-24e0-45f9-aaba-714ea9f75b63" width="80%">
+  <img alt="Dashboard de E-commerce" src="https://github.com/user-attachments/assets/38ac5f33-3d62-4d09-a36d-ec570754586c" width="80%">
 </p>
 
 ### 🔍 **Principais Indicadores:**
