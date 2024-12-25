@@ -11,7 +11,7 @@ Este repositório contém uma coleção de dashboards criados no Power BI para e
 Este dashboard foi desenvolvido para fornecer insights estratégicos sobre a performance de um e-commerce, permitindo análises detalhadas de vendas, categorias de produtos, ticket médio e muito mais. Ele ajuda a identificar oportunidades de crescimento e tomar decisões embasadas.
 
 <p align="center">
-  <img alt="Dashboard de E-commerce" src="https://github.com/user-attachments/assets/38ac5f33-3d62-4d09-a36d-ec570754586c" width="80%">
+  <img alt="Dashboard de E-commerce" src="https://github.com/user-attachments/assets/77a9db5e-2853-4cb3-a20f-0d2d7428b29a" width="80%">
 </p>
 
 ### 🔍 **Principais Indicadores:**
@@ -39,7 +39,7 @@ Explore o dashboard interativo no Power BI clicando nesse link: [🔗 Acessar Da
 Este dashboard foi desenvolvido para controlar o fluxo de caixa e oferecer uma visão completa das entradas e saídas financeiras ao longo do tempo. Ele permite identificar tendências, calcular a margem de lucro e até simular cenários financeiros para apoiar na tomada de decisão.
 
 <p align="center">
-  <img alt="Dashboard Financeiro" src="https://github.com/user-attachments/assets/ed3191db-1de7-4841-98b1-32ece745a5fb" width="80%">
+  <img alt="Dashboard Financeiro" src="https://github.com/user-attachments/assets/38ac5f33-3d62-4d09-a36d-ec570754586c" width="80%">
 </p>
 
 
