@@ -4,7 +4,37 @@ Este repositório contém uma coleção de dashboards criados no Power BI para e
 
 💡 _**Curiosidade:** Você sabia que o termo "dashboard" que usamos no Power BI é, na verdade, considerado um tipo específico de relatório? Isso porque, tecnicamente, o Power BI chama de "painel" uma única página com visuais fixados, enquanto os relatórios podem conter várias páginas e explorar dados de forma mais interativa._
 
-## 1. Dashboard Financeiro 💵
+<br>
+
+## 1. Dashboard de Análise de E-commerce 🛍️
+
+Este dashboard foi desenvolvido para fornecer insights estratégicos sobre a performance de um e-commerce, permitindo análises detalhadas de vendas, categorias de produtos, ticket médio e muito mais. Ele ajuda a identificar oportunidades de crescimento e tomar decisões embasadas.
+
+<p align="center">
+  <img alt="Dashboard de E-commerce" src="https://github.com/user-attachments/assets/ddc8d1d4-24e0-45f9-aaba-714ea9f75b63" width="80%">
+</p>
+
+### 🔍 **Principais Indicadores:**
+- **Pedidos:** Total de pedidos realizados no período analisado.
+- **Faturamento:** Valor total gerado pelas vendas.
+- **Ticket Médio:** Média do valor gasto por pedido.
+- **CAC (Custo de Aquisição por Cliente):** Média do custo investido para adquirir cada cliente.
+- **LTV (Lifetime Value):** Valor médio gerado por cliente ao longo de sua relação com o negócio.
+
+### 📊 **Visualizações e Funcionalidades:**
+- **Vendas ao longo do tempo:** Gráfico de linhas que exibe a evolução do faturamento por mês, permitindo identificar tendências e sazonalidades.
+- **Vendas por Produto e Categoria:** Gráfico de barras que destaca as categorias e produtos mais vendidos, com valores detalhados.
+- **Detalhamento de Categorias e Produtos:** Tabela interativa que permite aprofundar os dados por categoria, produto, faturamento, ticket médio, CAC e LTV.
+- **Análise do Faturamento:** Visual dinâmico que conecta categorias e produtos ao faturamento total, facilitando a análise de contribuição.
+- **Filtros Dinâmicos:** É possível filtrar todo o dashboard pelo mês, categoria, produto e canal de venda.
+
+### 🌐 **Acesse o Dashboard:**
+Explore o dashboard interativo no Power BI clicando nesse link: [🔗 Acessar Dashboard de E-commerce](https://app.powerbi.com/view?r=eyJrIjoiZTE0NDY1ZjQtNTJkMC00NDk1LThhYTUtYzIyYmFmOGQzOTdlIiwidCI6ImQ5Y2RhZTQwLTkyYmMtNDdjMC05NTAyLTkxZGIzOWEyNjMyYiJ9).
+
+<br>
+
+
+## 2. Dashboard Financeiro 💵
 
 Este dashboard foi desenvolvido para controlar o fluxo de caixa e oferecer uma visão completa das entradas e saídas financeiras ao longo do tempo. Ele permite identificar tendências, calcular a margem de lucro e até simular cenários financeiros para apoiar na tomada de decisão.
 
@@ -32,7 +62,7 @@ Este dashboard foi desenvolvido para controlar o fluxo de caixa e oferecer uma v
 
 
 
-## 2. Dashboard da Data Toys
+
 
 
 
