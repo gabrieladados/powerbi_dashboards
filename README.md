@@ -1,17 +1,18 @@
 # Dashboards no Power BI <img align="right" src="https://github.com/user-attachments/assets/8dfd63c5-66ce-41ef-b8f9-26071081c8d6" alt="Logo do Power BI" width="120"/>
 
-Este repositório contém uma coleção de dashboards criados no Power BI para explorar dados, gerar insights e melhorar a tomada de decisão. Cada dashboard é organizado com informações sobre o contexto, os KPIs principais e as fontes de dados utilizadas.
+Este repositório contém uma coleção de dashboards desenvolvidos no Power BI, explorando diferentes cenários de negócios, como análises de **e-commerce**, **financeiro** e **gestão da carteira de clientes**. Cada dashboard apresenta o objetivo, os principais KPIs e visualizações utilizados, além do link para acesso no Power BI Web. Todas as bases de dados foram fornecidas pela capacitação em Power BI da Comunidade Data Driven.  
 
-💡 _**Curiosidade:** Você sabia que o termo "dashboard" que usamos no Power BI é, na verdade, considerado um tipo específico de relatório? Isso porque, tecnicamente, o Power BI chama de "painel" uma única página com visuais fixados, enquanto os relatórios podem conter várias páginas e explorar dados de forma mais interativa._
+
+💡 _**Curiosidade:** Sabia que o que chamamos de "dashboard" para o Power BI é, na verdade, considerado um relatório? Isso porque, tecnicamente, O Power BI diferencia 'painel' (uma única página com visuais fixos) de 'relatório' (que pode ter várias páginas e interações mais complexas)._
 
 <br>
 
 ## 1. Dashboard de Análise de E-commerce 🛍️
 
-Este dashboard foi desenvolvido para fornecer insights estratégicos sobre a performance de um e-commerce, permitindo análises detalhadas de vendas, categorias de produtos, ticket médio e muito mais. Ele ajuda a identificar oportunidades de crescimento e tomar decisões embasadas.
+Este dashboard foi desenvolvido para fornecer insights estratégicos sobre a performance de um e-commerce, permitindo o acompanhamento de KPIs importantes como o faturamento, ticket médio, CAC e LTV. 
 
 <p align="center">
-  <img alt="Dashboard de E-commerce" src="https://github.com/user-attachments/assets/77a9db5e-2853-4cb3-a20f-0d2d7428b29a" width="80%">
+  <img alt="Dashboard de E-commerce" src="https://github.com/user-attachments/assets/5e8b41c0-9ff4-4c11-b4f2-d6ac6a99f7c6" width="80%">
 </p>
 
 ### 🔍 **Principais Indicadores:**
@@ -36,10 +37,10 @@ Explore o dashboard interativo no Power BI clicando nesse link: [🔗 Acessar Da
 
 ## 2. Dashboard Financeiro 💵
 
-Este dashboard foi desenvolvido para controlar o fluxo de caixa e oferecer uma visão completa das entradas e saídas financeiras ao longo do tempo. Ele permite identificar tendências, calcular a margem de lucro e até simular cenários financeiros para apoiar na tomada de decisão.
+Este dashboard foi desenvolvido para o controle do fluxo de caixa e oferecer uma visão completa das entradas e saídas financeiras ao longo do tempo. Ele permite identificar tendências, calcular a margem de lucro e simular cenários financeiros para apoiar na tomada de decisão.
 
 <p align="center">
-  <img alt="Dashboard Financeiro" src="https://github.com/user-attachments/assets/38ac5f33-3d62-4d09-a36d-ec570754586c" width="80%">
+  <img alt="Dashboard Financeiro" src="https://github.com/user-attachments/assets/fd247810-c88c-4a78-a8e4-f2257f69a59b" width="80%">
 </p>
 
 
@@ -66,20 +67,19 @@ Este dashboard foi desenvolvido para controlar o fluxo de caixa e oferecer uma v
 Este dashboard foi desenvolvido para analisar a base de clientes, ajudando na criação de estratégias de retenção, fidelização e expansão. Ele oferece insights detalhados sobre o comportamento dos clientes e o desempenho financeiro por grupos e regiões.
 
 <p align="center">
-  <img alt="Dashboard de Gestão de Clientes" src=" " width="80%">
+  <img alt="Dashboard de Gestão de Clientes" src="https://github.com/user-attachments/assets/f37d5f3d-7876-4f14-86bf-53671eacc831" width="80%">
 </p>
 
 ### 🔍 **Principais Indicadores:**
 - **Número de Clientes:** Total de clientes ativos no período selecionado.
+- **Número de Pedidos:** Total de pedidos realizados no período selecionado. 
 - **Receita:** Valor gerado pelas vendas para os clientes no período.
 - **Ticket Médio:** Média do valor gasto por cliente.
-- **Pedidos 2022 vs. 2023:** Comparação das quantidades de pedidos entre os dois anos.
 
 ### 📊 **Visualizações e Funcionalidades:**
 - **Matriz de Ação:** Gráfico que segmenta os clientes em quadrantes (Fidelizar, Valorizar, Desenvolver, Encantar), com base em receita e frequência.
 - **Faturamento por Grupo de Cliente:** Gráfico de barras que destaca o desempenho financeiro dos diferentes grupos de clientes.
 - **Faturamento por Região:** Mapa interativo que apresenta a distribuição do faturamento por localização geográfica.
-- **Evolução de Pedidos:** Gráfico de linhas que mostra o desempenho dos pedidos em diferentes períodos.
 - **Filtros Dinâmicos:** É possível filtrar todo o dashboard pela data e por vendedor.
 
 
