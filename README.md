@@ -91,7 +91,7 @@ Explore o dashboard interativo no Power BI clicando nesse link: [🔗 Acessar Da
 ---
 
 
-## Constribuições
+## Contribuições
 
 Muito obrigada por acompanhar meu projeto até aqui! 🎉
 
