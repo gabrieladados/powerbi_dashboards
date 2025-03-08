@@ -27,65 +27,65 @@ Este dashboard tem como foco monitorar e otimizar a performance do processo de r
 - Analistas de R&S
 
 ### **Acesse o Dashboard:**
-- Explore o dashboard interativo no Power BI clicando nesse link: [🔗 Acessar Dashboard de Performance do R&S](https://app.powerbi.com/view?r=eyJrIjoiNzIyNmI1ZjktMWI0MS00YmUxLTgwNjItZDg3NjI3Mzg4OWU4IiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9).
+- Explore o dashboard interativo no Power BI clicando nesse link: [🔗 Acessar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzIyNmI1ZjktMWI0MS00YmUxLTgwNjItZDg3NjI3Mzg4OWU4IiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9).
 
 <br>
 
 
-## 2. Dashboard de Gestão de Projetos
+## 2. Dashboard de Gestão de Projetos 📝
 
-Este dashboard foi desenvolvido para o controle do fluxo de caixa e oferecer uma visão completa das entradas e saídas financeiras ao longo do tempo. Ele permite identificar tendências, calcular a margem de lucro e simular cenários financeiros para apoiar na tomada de decisão.
+Este dashboard foi desenvolvido para monitorar a execução de tarefas em diferentes projetos. Ele oferece uma visão detalhada do status das tarefas, desempenho dos analistas e métricas de produtividade, permitindo um acompanhamento mais eficiente e identificação de gargalos nos projetos.
 
 <p align="center">
-  <img alt="Dashboard Financeiro" src="https://github.com/user-attachments/assets/fd247810-c88c-4a78-a8e4-f2257f69a59b" width="80%">
+  <img alt="Dashboard Projetos" src="https://github.com/user-attachments/assets/639092b8-6483-45d4-83d8-5d798251faa3" width="80%">
 </p>
 
 
+### **Principais Indicadores:**
+- **Total de Tarefas:** Quantidade total de tarefas em andamento.
+- **% Tarefas Concluídas:** Percentual de tarefas finalizadas.
+- **% Tarefas Atrasadas:** Percentual de tarefas que ultrapassaram o prazo.
+- **Média de Atrasos em Dias:** Número médio de dias de atraso das tarefas.
+- **Distribuição das Tarefas:** Quantidade de tarefas em diferentes status (Atrasada, Concluída, Em Andamento, Não Iniciada).
+- **% Tarefas Concluídas por Projeto:** Monitoramento do progresso por projeto.
+- **Performance por Analista de Projetos:** Comparação do desempenho individual dos analistas.
 
-### 🔍 **Principais Indicadores:**
-- **Total de Entradas:** Valor acumulado recebido ao longo do período selecionado.
-- **Total de Saídas:** Valor total das despesas no mesmo intervalo de tempo.
-- **Saldo Final:** Diferença entre entradas e saídas, representando o lucro ou prejuízo.
-- **Margem de Lucro (%):** Indicador que reflete a rentabilidade das operações financeiras.
+### **Público-Alvo:** 
+- Gerentes de Projetos   
+- Líderes de Equipe  
 
-### 📊 **Visualizações e Funcionalidades:**
-- **Entradas e Saídas ao longo do tempo:** Um gráfico de área comparando os valores mensais de entradas e saídas.
-- **Evolução do saldo:** Gráfico de barras que destaca meses lucrativos versus meses com prejuízo.
-- **Saídas por tipo de despesa:** Uma barra horizontal que detalha as principais categorias de gastos.
-- **Simulador What-If:** Ferramenta interativa que permite ajustar receitas e despesas projetadas, gerando novos cenários financeiros.
-  
-### 🌐 **Acesse o Dashboard:**
-- Explore o dashboard interativo no Power BI clicando nesse link:  [🔗 Acessar Dashboard Financeiro](https://app.powerbi.com/view?r=eyJrIjoiZjdmMDQwYWItM2MwMS00MDc4LTliZTctZTFhMGJhNGFiMzk0IiwidCI6ImQ5Y2RhZTQwLTkyYmMtNDdjMC05NTAyLTkxZGIzOWEyNjMyYiJ9&pageName=b9ea140ce0cbc18639a0)
+### **Acesse o Dashboard:**
+- Explore o dashboard interativo no Power BI clicando nesse link: [🔗 Acessar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTNmNzRkNjItM2E0Ni00NTg1LWFhM2UtMzQ3Y2Q4Yjk5OWI0IiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9).
 
-<br> 
+<br>
 
-## 3. Dashboard de Gestão de Clientes 🤝
+## 3. Dashboard de Controle de Fluxo de Caixa 💵
 
-Este dashboard foi desenvolvido para analisar a base de clientes, ajudando na criação de estratégias de retenção, fidelização e expansão. Ele oferece insights detalhados sobre o comportamento dos clientes e o desempenho financeiro por grupos e regiões.
+Este dashboard foi desenvolvido para monitorar o fluxo de caixa da empresa, oferecendo uma visão clara sobre receitas, despesas e o saldo final ao longo do tempo. Além disso, conta com um simulador **What-If**, permitindo a análise de diferentes cenários financeiros para tomada de decisões estratégicas.
 
 <p align="center">
-  <img alt="Dashboard de Gestão de Clientes" src="https://github.com/user-attachments/assets/f37d5f3d-7876-4f14-86bf-53671eacc831" width="80%">
+  <img alt="Dashboard de Controle de Fluxo de Caixa" src="https://github.com/user-attachments/assets/eddd51f3-fd97-4515-8373-4eb09cfa26dc" width="80%">
 </p>
 
-### 🔍 **Principais Indicadores:**
-- **Número de Clientes:** Total de clientes ativos no período selecionado.
-- **Número de Pedidos:** Total de pedidos realizados no período selecionado. 
-- **Receita:** Valor gerado pelas vendas para os clientes no período.
-- **Ticket Médio:** Média do valor gasto por cliente.
+### **Principais Indicadores:**
+- **Total de Entradas:** Valor total de receitas geradas no período.
+- **Total de Saídas:** Valor total de despesas realizadas.
+- **Saldo Final:** Diferença entre entradas e saídas, representando o saldo disponível.
+- **Margem de Lucro:** Percentual de lucro em relação à receita total.
+- **Evolução do Saldo:** Análise gráfica da variação do saldo ao longo dos meses.
+- **Distribuição de Despesas:** Classificação das despesas por categoria, incluindo impostos, gastos comerciais, administrativos, serviços e pessoal.
 
-### 📊 **Visualizações e Funcionalidades:**
-- **Matriz de Ação:** Gráfico que segmenta os clientes em quadrantes (Fidelizar, Valorizar, Desenvolver, Encantar), com base em receita e frequência.
-- **Faturamento por Grupo de Cliente:** Gráfico de barras que destaca o desempenho financeiro dos diferentes grupos de clientes.
-- **Faturamento por Região:** Mapa interativo que apresenta a distribuição do faturamento por localização geográfica.
-- **Filtros Dinâmicos:** É possível filtrar todo o dashboard pela data e por vendedor.
+### **Público-Alvo:**  
+- Gestores Financeiros  
+- Analistas Financeiros
 
 
 ### 🌐 **Acesse o Dashboard:**
-Explore o dashboard interativo no Power BI clicando nesse link: [🔗 Acessar Dashboard de Gestão de Clientes](https://app.powerbi.com/view?r=eyJrIjoiODk3MjFiNGMtMDA2Yi00Y2QxLWFjMGMtZjU3ZDZlMzQxMGQ0IiwidCI6ImQ5Y2RhZTQwLTkyYmMtNDdjMC05NTAyLTkxZGIzOWEyNjMyYiJ9
-).
+- Explore o dashboard interativo no Power BI clicando nesse link: [🔗 Acessar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjUwYTllZGYtZDVhMi00NjYyLTkwOTYtYzBkYjc3Njc1NzRlIiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9).
 
 
 ---
+
 
 
 ## Contribuições
@@ -95,14 +95,6 @@ Muito obrigada por acompanhar meu projeto até aqui! 🎉
 Contribuições são **muito bem-vindas**. Se você tem sugestões ou melhorias, fique à vontade para abrir uma **issue** ou enviar um **pull request**.
 
 Gostou do projeto? Não esqueça de dar uma ⭐️! 
-
-
-
-
-
-
-
-
 
 
 
