@@ -1,41 +1,38 @@
 # Dashboards no Power BI <img align="right" src="https://github.com/user-attachments/assets/8dfd63c5-66ce-41ef-b8f9-26071081c8d6" alt="Logo do Power BI" width="120"/>
 
-Este repositório contém uma coleção de dashboards desenvolvidos no Power BI, explorando diferentes cenários de negócios, como análises de **e-commerce**, **financeiro** e **gestão da carteira de clientes**. Cada dashboard apresenta o objetivo, os principais KPIs e visualizações utilizados, além do link para acesso no Power BI Web. Todas as bases de dados foram fornecidas pela capacitação em Power BI da Comunidade Data Driven.  
+Este repositório contém uma coleção de dashboards desenvolvidos no Power BI, explorando diferentes cenários de negócios, como análises de **performance do recrutamento & seleção**, **gestão de projetos** e **controle do fluxo de caixa**. Cada dashboard apresenta o objetivo, os principais KPIs e visualizações utilizados, além do link para acesso no Power BI Web.   
 
 
 💡 _**Curiosidade:** Sabia que o que chamamos de "dashboard" para o Power BI é, na verdade, considerado um relatório? Isso porque, tecnicamente, O Power BI diferencia 'painel' (uma única página com visuais fixos) de 'relatório' (que pode ter várias páginas e interações mais complexas)._
 
 <br>
 
-## 1. Dashboard de Análise de E-commerce 🛍️
+## 1. Dashboard de Performance do R&S 🎯
 
-Este dashboard foi desenvolvido para fornecer insights estratégicos sobre a performance de um e-commerce, permitindo o acompanhamento de KPIs importantes como o faturamento, ticket médio, CAC e LTV. 
+Este dashboard tem como foco monitorar e otimizar a performance do processo de recrutamento e seleção (R&S). Ele oferece uma visão detalhada sobre o funil das etapas do processo seletivo, tempo médio das etapas, desempenho dos recrutadores e status das vagas, permitindo que a equipe identifique gargalos, acompanhe KPIs essenciais e tome decisões rápidas para melhorar a eficiência das contratações.
 
 <p align="center">
-  <img alt="Dashboard de E-commerce" src="https://github.com/user-attachments/assets/5e8b41c0-9ff4-4c11-b4f2-d6ac6a99f7c6" width="80%">
+  <img alt="Dashboard de Performance do R&S" src="https://github.com/user-attachments/assets/7eda2075-c4ae-440d-9806-17353a05aaec" width="80%">
 </p>
 
-### 🔍 **Principais Indicadores:**
-- **Pedidos:** Total de pedidos realizados no período analisado.
-- **Faturamento:** Valor total gerado pelas vendas.
-- **Ticket Médio:** Média do valor gasto por pedido.
-- **CAC (Custo de Aquisição por Cliente):** Média do custo investido para adquirir cada cliente.
-- **LTV (Lifetime Value):** Valor médio gerado por cliente ao longo de sua relação com o negócio.
+### **Principais Indicadores:**
+- **% Vagas Fechadas:** Percentual de vagas encerradas em relação ao total.
+- **Média de Candidatos por Vaga:** Número médio de candidatos que participam de cada processo seletivo.
+- **Tempo Médio de Fechamento:** Quantidade média de dias necessários para uma vaga ser preenchida.
+- **Vagas Críticas:** Monitoramento das vagas abertas há mais tempo sem preenchimento.
+- **Taxa de Conversão por Recrutador:** Percentual de candidatos que avançam do cadastro até a contratação.
 
-### 📊 **Visualizações e Funcionalidades:**
-- **Vendas ao longo do tempo:** Gráfico de linhas que exibe a evolução do faturamento por mês, permitindo identificar tendências e sazonalidades.
-- **Vendas por Produto e Categoria:** Gráfico de barras que destaca as categorias e produtos mais vendidos, com valores detalhados.
-- **Detalhamento de Categorias e Produtos:** Tabela interativa que permite aprofundar os dados por categoria, produto, faturamento, ticket médio, CAC e LTV.
-- **Análise do Faturamento:** Visual dinâmico que conecta categorias e produtos ao faturamento total, facilitando a análise de contribuição.
-- **Filtros Dinâmicos:** É possível filtrar todo o dashboard pelo mês, categoria, produto e canal de venda.
+### **Público-Alvo:** 
+- Líderes de R&S
+- Analistas de R&S
 
-### 🌐 **Acesse o Dashboard:**
-Explore o dashboard interativo no Power BI clicando nesse link: [🔗 Acessar Dashboard de E-commerce](https://app.powerbi.com/view?r=eyJrIjoiZTE0NDY1ZjQtNTJkMC00NDk1LThhYTUtYzIyYmFmOGQzOTdlIiwidCI6ImQ5Y2RhZTQwLTkyYmMtNDdjMC05NTAyLTkxZGIzOWEyNjMyYiJ9).
+### **Acesse o Dashboard:**
+- Explore o dashboard interativo no Power BI clicando nesse link: [🔗 Acessar Dashboard de Performance do R&S](https://app.powerbi.com/view?r=eyJrIjoiNzIyNmI1ZjktMWI0MS00YmUxLTgwNjItZDg3NjI3Mzg4OWU4IiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9).
 
 <br>
 
 
-## 2. Dashboard Financeiro 💵
+## 2. Dashboard de Gestão de Projetos
 
 Este dashboard foi desenvolvido para o controle do fluxo de caixa e oferecer uma visão completa das entradas e saídas financeiras ao longo do tempo. Ele permite identificar tendências, calcular a margem de lucro e simular cenários financeiros para apoiar na tomada de decisão.
 
